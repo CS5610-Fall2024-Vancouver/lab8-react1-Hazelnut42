@@ -1,4 +1,3 @@
-// components/Task.js
 import { FaTrash } from 'react-icons/fa';
 
 function Task({ task, deleteTask }) {

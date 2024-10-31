@@ -1,4 +1,3 @@
-// components/TasksList.js
 import Task from './Task';
 
 function TasksList({ tasks, deleteTask }) {
